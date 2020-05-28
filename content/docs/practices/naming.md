@@ -75,7 +75,7 @@ The list is not exhaustive.
 | Family | Base unit | Remark | 
 | -------| --------- | ------ |
 | Time   | seconds   |        |
-| Temperature | celsius | _celsius_ is preferred over _kelvin_ for practical reasons. |
+| Temperature | celsius | _celsius_ is preferred over _kelvin_ for practical reasons. _kelvin_ is acceptable in special cases like color temperature and scientific usage. |
 | Length | meters | |
 | Bytes  | bytes | | 
 | Bits   | bytes | To avoid confusion combining different metrics, always use _bytes_, even where _bits_ appear more common. |
